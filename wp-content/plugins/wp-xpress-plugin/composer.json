@@ -1,0 +1,21 @@
+{
+    "name": "audentio/thxpress",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Audentio, LLC",
+            "email": "hello@audentio.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "XPress": "src/XPress",
+            "XLink": "src/XLink"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

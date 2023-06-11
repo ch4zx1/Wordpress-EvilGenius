@@ -1,0 +1,1 @@
+git clone git@github.com:Audentio/wp-xpress-theme.git thxpress
